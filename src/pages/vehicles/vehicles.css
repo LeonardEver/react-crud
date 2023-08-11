@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,900;1,400;1,900&display=swap');
+
+.ListVeic {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    margin: 60px;
+}
+
+.listND {
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    margin: 500px 750px;
+}
+
+.AddVec {
+    background-color: #21cdff;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+    margin: 16px 16px 0 0;
+    margin-left: 40px;
+}
+

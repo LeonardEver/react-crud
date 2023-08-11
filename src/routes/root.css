@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,900;1,400;1,900&display=swap');
+
+.NavigateVeic {
+    display: flex;
+    background-color: aquamarine;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+    margin: 16px 16px 0 0;
+    box-sizing: content-box;
+}
+
+.NavigateComp {
+    display: flex;
+    background-color: aquamarine;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+    margin: 16px 16px 0 0;
+    box-sizing: content-box;
+}
+
+.NavigatePos {
+    display: flex;
+    flex-direction: row;
+}
+
+.TxtBt1 {
+    font-family: 'Raleway', sans-serif;
+    color: #5760f7;
+}
+
+.TxtBt2 {
+    font-family: 'Raleway', sans-serif;
+    color: #5760f7;
+}

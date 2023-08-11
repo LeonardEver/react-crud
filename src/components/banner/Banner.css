@@ -1,0 +1,9 @@
+.banner {
+    background-color: #29b6ff;
+    text-align: center;
+    
+}
+
+.banner img {
+    max-width: 80%;
+}
